@@ -52,3 +52,5 @@ ns8.kenhvn2.com
 ns9.kenhvn2.com
 ns28.kenhvn2.com
 ns13.kenhvn2.com
+cdn2.kenhvn2.com
+xemphimvn2.net

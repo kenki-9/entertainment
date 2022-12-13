@@ -1,0 +1,12 @@
+saki.baka-tsuki.org
+munin.baka-tsuki.org
+wiki.baka-tsuki.org
+forum.baka-tsuki.org
+mail.baka-tsuki.org
+blog.baka-tsuki.org
+nagios.baka-tsuki.org
+piwik.baka-tsuki.org
+imap.baka-tsuki.org
+www.baka-tsuki.org
+smtp.baka-tsuki.org
+baka-tsuki.org

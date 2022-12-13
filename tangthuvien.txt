@@ -14,3 +14,7 @@ m.truyen.tangthuvien.vn
 apiv2.truyen.tangthuvien.vn
 image.truyen.tangthuvien.vn	
 adm.truyen.tangthuvien.vn
+www.nae.vn	
+www.naegroups.net	
+nae.vn	
+tangthuvien.vn

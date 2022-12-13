@@ -6,3 +6,4 @@ img.anime47.com
 tracker.anime47.com
 api.anime47.com
 player.anime47.com
+anime47.com
